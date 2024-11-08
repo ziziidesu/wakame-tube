@@ -1,7 +1,7 @@
 version: 1
 services:
   - type: web
-    name: わかめtube
+    name: wakame-tube-ziziidesu
     env: node
     plan: free
     buildCommand: npm install
